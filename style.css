@@ -1,0 +1,25 @@
+
+.errormessage{
+    color: red;
+}
+
+form{
+    max-width: 450px;
+    width: 100%;
+}
+
+
+
+.input-container {
+    position: relative;
+}
+
+
+
+.input-container span {
+    position: absolute;
+    top: 8px;
+    right: 10px;  
+    cursor: pointer;
+}
+
